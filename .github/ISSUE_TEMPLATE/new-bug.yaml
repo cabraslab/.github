@@ -1,0 +1,67 @@
+name: Bug Report
+description: Use this form to report bugs.
+title: Concise title of the bug
+labels: [bug, triage]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear and concise description of the bug.
+      placeholder: Describe the bug in detail here.
+
+  - type: input
+    id: branch_commit
+    attributes:
+      label: Branch/Commit
+      description: Provide the branch or commit SHA where the bug was found (e.g., `main`, specific commit SHA).
+      placeholder: Branch/Commit (e.g., `main`, specific commit SHA)
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Specify the environment where the bug occurs (e.g., `Production`, `Sandbox`).
+      placeholder: Environment (e.g., `Production`, `Sandbox`)
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      description: Specify the operating system where the bug was found (e.g., `macOS`, `Linux`, `Windows`).
+      placeholder: Operating System (e.g., `macOS`, `Linux`, `Windows`)
+
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: List the steps to reproduce the bug.
+      placeholder: Step 1, Step 2, Step 3...
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: Expected outcome here.
+
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+      placeholder: Actual outcome here.
+
+  - type: textarea
+    id: screenshots_or_logs
+    attributes:
+      label: Screenshots or Logs
+      description: Provide any screenshots, logs, or other supporting evidence.
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Add any other context that may help diagnose or resolve the bug.
+      placeholder: Add any additional details here.

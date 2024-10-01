@@ -15,10 +15,10 @@ The purpose of this repository is to provide a unified space for managing and or
   
 ## Structure
 
-- `.github/ISSUE_TEMPLATE`: Custom issue templates for all repositories under the organization.
-- `.github/PULL_REQUEST_TEMPLATE.md`: The template for pull requests, ensuring all PRs meet our quality standards.
 - `.github/CODE_OF_CONDUCT.md`: Our code of conduct to ensure a positive and inclusive community.
 - `.github/CONTRIBUTING.md`: Contribution guidelines for anyone interested in collaborating on our projects.
+- `.github/ISSUE_TEMPLATE`: Custom issue templates for all repositories under the organization.
+- `.github/PULL_REQUEST_TEMPLATE.md`: The template for pull requests, ensuring all PRs meet our quality standards.
 
 ## How to Contribute
 
