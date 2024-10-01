@@ -1,4 +1,4 @@
-# Welcome to CabrasLab 🐐
+# 🐐 Welcome to CabrasLab
 
 **CabrasLab** is the development space behind _Pouso das Cabras Ranch_, an inn that’s more than just a place to stay—it's a haven of relaxation and reconnection with nature.
 Here, we combine creativity, technology, and a deep passion for sustainable tourism to craft innovative solutions that support both our inn’s operation and the wider travel and hospitality industry.
